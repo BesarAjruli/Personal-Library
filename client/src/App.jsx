@@ -6,6 +6,9 @@ function App() {
   return (
     <>
       <Header/>
+      <div className='artworkHolder'>
+        <span>My Library</span>
+      </div>
     </>
   )
 }
