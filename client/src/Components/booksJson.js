@@ -5,7 +5,7 @@ const books = [
     "author": "Tefik Bekteshi",
     "language": "",
     "category": "",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Mesim i shkurte mbi namazin dhe Jasini Sherifi",
@@ -13,7 +13,7 @@ const books = [
     "author": "H. Sulejman Kemura",
     "language": "",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Tridhjete e gjashte kallezime",
@@ -21,7 +21,7 @@ const books = [
     "author": "Adem Abdullahu",
     "language": "Albanian",
     "category": "Literature/Stories",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Emancipimi i femres dhe moda",
@@ -29,7 +29,7 @@ const books = [
     "author": "Jusuf Zimeri",
     "language": "Albanian",
     "category": "Social/Religious",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Sunnetet e rregullta te namazit",
@@ -37,7 +37,7 @@ const books = [
     "author": "Hfz. Ekrem Hasani",
     "language": "Albanian",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Disa nga dijetaret sahabe",
@@ -45,7 +45,7 @@ const books = [
     "author": "Grup autoresh",
     "language": "Albanian",
     "category": "Religious (Islamic)/Biography",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Mekatet e medha dhe tridhjet shkaqet e hyrjes ne Xhennet",
@@ -53,7 +53,7 @@ const books = [
     "author": "Shemsuddin Edh-Dhehebi",
     "language": "Albanian (Translation of a classic work)",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Poezia diktatike e Josif Bagerit",
@@ -61,7 +61,7 @@ const books = [
     "author": "Nexhat Abazi",
     "language": "Albanian",
     "category": "Literary Criticism/Poetry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Muhamedu a.s, profeti islam",
@@ -69,7 +69,7 @@ const books = [
     "author": "Imam Vehbi Ismaili",
     "language": "Albanian",
     "category": "Religious (Islamic)/Biography",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Fjalor enciklopedik",
@@ -77,7 +77,7 @@ const books = [
     "author": "Pasho Baku",
     "language": "Albanian",
     "category": "Reference/Dictionary",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Antropologjia",
@@ -85,7 +85,7 @@ const books = [
     "author": "Mr. Sc. Reshat Qahili",
     "language": "Albanian",
     "category": "Academic/Anthropology",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Gramatika I, fonetika, leksikologjia dhe morfologjia)",
@@ -93,7 +93,7 @@ const books = [
     "author": "Prof. Dr. Remzi Nesimi",
     "language": "Albanian",
     "category": "Academic/Linguistics",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Atllas anatomik",
@@ -101,7 +101,7 @@ const books = [
     "author": "Dr. Anida Kargovska",
     "language": "",
     "category": "Academic/Medicine",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Biologjia",
@@ -109,7 +109,7 @@ const books = [
     "author": "Cvetanovska Lenka",
     "language": "",
     "category": "Academic/Biology",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Mbrojtja dhe siguria",
@@ -117,7 +117,7 @@ const books = [
     "author": "Universiteti i Tetoves",
     "language": "Albanian",
     "category": "Academic/Security Studies",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Bageti e bujqesi dhe Lulet e veres",
@@ -125,7 +125,7 @@ const books = [
     "author": "Naim Frasheri",
     "language": "Albanian",
     "category": "Poetry/Classic Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Te dheu i huaj",
@@ -133,7 +133,7 @@ const books = [
     "author": "Zef Skiroi",
     "language": "Albanian",
     "category": "Literature/Poetry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Juvenilia",
@@ -141,7 +141,7 @@ const books = [
     "author": "Ndre Mjeda",
     "language": "Albanian",
     "category": "Poetry/Classic Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Gjuh shqipe dhe letersi III",
@@ -149,7 +149,7 @@ const books = [
     "author": "Resul Bekteshi",
     "language": "Albanian",
     "category": "Academic/Language Arts",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Biologjia III",
@@ -157,7 +157,7 @@ const books = [
     "author": "Suzana Dinevska",
     "language": "",
     "category": "Academic/Biology",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Mikrobiologjia dhe infektologjia me perkujdesje",
@@ -165,7 +165,7 @@ const books = [
     "author": "Dr. Ilmi Mehmedi",
     "language": "Albanian",
     "category": "Academic/Medicine",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Gjuha latine",
@@ -173,7 +173,7 @@ const books = [
     "author": "Dr. Engjell Sedaj",
     "language": "Albanian",
     "category": "Academic/Linguistics",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Historia e maqedonise II",
@@ -181,7 +181,7 @@ const books = [
     "author": "Mirosllav Boshkoviq",
     "language": "Albanian",
     "category": "Academic/History",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Kequshqyerja - shtimi ne peshe",
@@ -189,7 +189,7 @@ const books = [
     "author": "No",
     "language": "",
     "category": "Health/Nutrition",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Parandalimi i semundjeve kardiovaskulare me ane te ushqimit",
@@ -197,7 +197,7 @@ const books = [
     "author": "No",
     "language": "",
     "category": "Health/Nutrition",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Anoreksia dhe bulimia",
@@ -205,7 +205,7 @@ const books = [
     "author": "No",
     "language": "",
     "category": "Health/Psychology",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Bazat e kujdesit",
@@ -213,7 +213,7 @@ const books = [
     "author": "Danka Gigovska",
     "language": "Albanian (Textbook for Health Care)",
     "category": "Academic/Health Care",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Proteza parciale",
@@ -221,7 +221,7 @@ const books = [
     "author": "No",
     "language": "",
     "category": "Academic/Dentistry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Prefimet e agjentit anglez dhe armiqesia e anglezeve ndaj islamit",
@@ -229,7 +229,7 @@ const books = [
     "author": "M. Siddik Gümüş",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)/Political",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Migjeni 1",
@@ -237,7 +237,7 @@ const books = [
     "author": "Migjeni",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Poezi te zgjedhura",
@@ -245,7 +245,7 @@ const books = [
     "author": "Vahit Nasufi",
     "language": "Albanian",
     "category": "Poetry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Psikologjia III",
@@ -253,7 +253,7 @@ const books = [
     "author": "Liljana Mileva",
     "language": "",
     "category": "Academic/Psychology",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Pike heshtje",
@@ -261,7 +261,7 @@ const books = [
     "author": "Taxhedin Alimi",
     "language": "Albanian",
     "category": "Poetry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Sa mire, sa bukur",
@@ -269,7 +269,7 @@ const books = [
     "author": "Berzat Sadiku",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Aspekti edukativ i krijimtarise poetike te shkrumtarit per femije Odhise K. Grillo",
@@ -277,7 +277,7 @@ const books = [
     "author": "Mr. Sc. Adem Abdullahu",
     "language": "Albanian",
     "category": "Literary Criticism/Education",
-    "cover_image": ""
+    "image": "https://res.cloudinary.com/dd1mjtaus/image/upload/v1760798305/CamScanner_18.10.25_16.23_1__1_ulshya.jpg"
   },
   {
     "title": "Prangat e praruara",
@@ -285,7 +285,7 @@ const books = [
     "author": "Shaip Beqiri",
     "language": "Albanian",
     "category": "Literature/Novel",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "I ketill ishte Muhamedi Sal-Lallahu Alejhi Ve Sel-lem",
@@ -293,7 +293,7 @@ const books = [
     "author": "Bekir Halimi",
     "language": "Albanian",
     "category": "Religious (Islamic)/Biography",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Ishulli Adular",
@@ -301,7 +301,7 @@ const books = [
     "author": "Lindite Ahmeti",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Migjeni 2",
@@ -309,7 +309,7 @@ const books = [
     "author": "Migjeni",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Historia Islame I",
@@ -317,7 +317,7 @@ const books = [
     "author": "Nuredin Ahmeti",
     "language": "Albanian",
     "category": "Religious (Islamic)/History",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Poezi e zgjedhur",
@@ -325,7 +325,7 @@ const books = [
     "author": "Adem Abdullahu",
     "language": "Albanian",
     "category": "Poetry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Ndergjegjja",
@@ -333,7 +333,7 @@ const books = [
     "author": "Sami Frasheri",
     "language": "Albanian",
     "category": "Philosophy/Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Mami",
@@ -341,7 +341,7 @@ const books = [
     "author": "Merxhivane Kadrii",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Si te behesh prind i suksesshem",
@@ -349,7 +349,7 @@ const books = [
     "author": "Abdullah Mugamed Abdulmuti",
     "language": "Albanian (Translation)",
     "category": "Parenting/Self-Help",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Kimia 11",
@@ -357,7 +357,7 @@ const books = [
     "author": "Prof. Dr. Eduard Andoni",
     "language": "Albanian",
     "category": "Academic/Chemistry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Si ta besh femijen tend yll",
@@ -365,7 +365,7 @@ const books = [
     "author": "Abdulhamid Bilal",
     "language": "Albanian (Translation)",
     "category": "Parenting/Self-Help",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Ky eshte Profeti Muhamed i derguari Zotit per mbare njerzimin",
@@ -373,7 +373,7 @@ const books = [
     "author": "Prof. Dr. Shefik Osmani",
     "language": "Albanian",
     "category": "Religious (Islamic)/Biography",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Nene me trego per Allahun",
@@ -381,7 +381,7 @@ const books = [
     "author": "Selçuk Yildrim",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)/Children's",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Taroja i tokeve se maleve",
@@ -389,7 +389,7 @@ const books = [
     "author": "Mijoko Macutani",
     "language": "Albanian (Translation from Japanese)",
     "category": "Children's Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Tregime te mocme",
@@ -397,7 +397,7 @@ const books = [
     "author": "Thoma Kacori",
     "language": "Albanian",
     "category": "Short Stories",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Drita mbi drite dhe kandili ndricues",
@@ -405,7 +405,7 @@ const books = [
     "author": "Ef. Ali Tahiri",
     "language": "Albanian",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Liria",
@@ -413,7 +413,7 @@ const books = [
     "author": "Nexhat Pustina",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Semundja - \"Ekrani\"",
@@ -421,7 +421,7 @@ const books = [
     "author": "Ali Qerimi",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Derdhje loti...",
@@ -429,7 +429,7 @@ const books = [
     "author": "Bashkim Selmani",
     "language": "Albanian",
     "category": "Poetry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Fjalor frengjisht - shqip",
@@ -437,7 +437,7 @@ const books = [
     "author": "Edat Kokona",
     "language": "Albanian/French",
     "category": "Reference/Dictionary",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Fjalor maqedonisht - shqip, shqip - maqedonisht",
@@ -445,7 +445,7 @@ const books = [
     "author": "Ilija Strashevski",
     "language": "Albanian/Macedonian",
     "category": "Reference/Dictionary",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Me syte e argusit",
@@ -453,7 +453,7 @@ const books = [
     "author": "Rahmi Tuda",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Fluturim i lire",
@@ -461,7 +461,7 @@ const books = [
     "author": "Zyhra Farizi",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Shtjellime letrare",
@@ -469,7 +469,7 @@ const books = [
     "author": "Dr. Mahmud Hysa",
     "language": "Albanian",
     "category": "Literary Criticism",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Bredhje pertej qetesise",
@@ -477,7 +477,7 @@ const books = [
     "author": "Iljaz Xhemaili",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Teoria e noveles dhe e tregimit",
@@ -485,7 +485,7 @@ const books = [
     "author": "Dr. Hysni Hoxha",
     "language": "Albanian",
     "category": "Literary Theory",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Nuk shembet nje popull i bekuar",
@@ -493,7 +493,7 @@ const books = [
     "author": "Muzafer Ramadani",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": "https://res.cloudinary.com/dd1mjtaus/image/upload/v1760798300/CamScanner_18.10.25_16.27_1_gdenyf.jpg"
   },
   {
     "title": "Fjalet e qiririt",
@@ -501,7 +501,7 @@ const books = [
     "author": "Naim Frasheri",
     "language": "Albanian",
     "category": "Poetry/Classic Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Bukuria e jetes",
@@ -509,7 +509,7 @@ const books = [
     "author": "Bekir Halimi",
     "language": "Albanian",
     "category": "Literature/Poetry",
-    "cover_image": ""
+    "image": "https://res.cloudinary.com/dd1mjtaus/image/upload/v1760798307/CamScanner_18.10.25_16.22_1_k1arxp.jpg"
   },
   {
     "title": "Migjeni 3",
@@ -517,7 +517,7 @@ const books = [
     "author": "Migjeni",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Migjeni 4",
@@ -525,7 +525,7 @@ const books = [
     "author": "Migjeni",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Narracioni dhe folalizimi ne tregimin shqiptar ne maqedoni",
@@ -533,7 +533,7 @@ const books = [
     "author": "Sherif Selimi",
     "language": "Albanian",
     "category": "Literary Criticism",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Tregime te mocme",
@@ -541,7 +541,7 @@ const books = [
     "author": "Thoma Kacori",
     "language": "Albanian",
     "category": "Short Stories",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Bageti e bujqesia",
@@ -549,7 +549,7 @@ const books = [
     "author": "Naim Frasheri",
     "language": "Albanian",
     "category": "Poetry/Classic Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Gramatika e gjuhes Angleze",
@@ -557,7 +557,7 @@ const books = [
     "author": "Halit Burrniku",
     "language": "Albanian (Instructional)",
     "category": "Language Instruction",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Ne tetove bie shi",
@@ -565,7 +565,7 @@ const books = [
     "author": "Daim Iljazi",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Kultere",
@@ -573,7 +573,7 @@ const books = [
     "author": "Taxhedin Alimi",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Me cfar mendje apo feje mund te konsiderohen shperthimet dhe shkateimet lufte ne rruge te zotit?!",
@@ -581,7 +581,7 @@ const books = [
     "author": "Abdulmuhsin Bin Hamed El Abbad El Bedr",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Te tjeret per islamin",
@@ -589,7 +589,7 @@ const books = [
     "author": "Ajni Sinani",
     "language": "Albanian",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Historia e Skenderbeut",
@@ -597,7 +597,7 @@ const books = [
     "author": "Odhise K. Grillo",
     "language": "Albanian",
     "category": "History/Biography",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Ura e fshejit",
@@ -605,7 +605,7 @@ const books = [
     "author": "Jusuf Buxhovi",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "10 arsyet me te forta pse vajzat nuk e mbane hixhabin",
@@ -613,7 +613,7 @@ const books = [
     "author": "Dr. Huejda Ismail",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)/Social",
-    "cover_image": ""
+    "image": "https://res.cloudinary.com/dd1mjtaus/image/upload/v1760798300/CamScanner_18.10.25_16.26_2__1_lrqres.jpg"
   },
   {
     "title": "Malli per vendlindjen",
@@ -621,7 +621,7 @@ const books = [
     "author": "Sheqibe Shaqiri",
     "language": "Albanian",
     "category": "Literature/Poetry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Muhamedi profeti islam",
@@ -629,7 +629,7 @@ const books = [
     "author": "Imam Vehbi Ismaili",
     "language": "Albanian",
     "category": "Religious (Islamic)/Biography",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Pirua i Epirit",
@@ -637,7 +637,7 @@ const books = [
     "author": "Leonard Prifti",
     "language": "Albanian",
     "category": "History/Biography",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Vallja e shkronjave",
@@ -645,7 +645,7 @@ const books = [
     "author": "Mehmedali Hoxha",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Ilumuddini",
@@ -653,7 +653,7 @@ const books = [
     "author": "Bilal Hasanoviq",
     "language": "Albanian",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Aforizma pedagogjik",
@@ -661,7 +661,7 @@ const books = [
     "author": "Mehdi Memeti",
     "language": "Albanian",
     "category": "Education/Aphorisms",
-    "cover_image": ""
+    "image": "https://res.cloudinary.com/dd1mjtaus/image/upload/v1760798306/CamScanner_18.10.25_16.24_1_jkrj24.jpg"
   },
   {
     "title": "Lulja e lumturise",
@@ -669,7 +669,7 @@ const books = [
     "author": "Arijeta Alija",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Tregime islame per femije dhe te rritur",
@@ -677,7 +677,7 @@ const books = [
     "author": "Mr. Nexhadi ef. Limani",
     "language": "Albanian",
     "category": "Religious (Islamic)/Stories",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Shtepia misterioze",
@@ -685,7 +685,7 @@ const books = [
     "author": "Honore De Balzak",
     "language": "Albanian (Translation from French)",
     "category": "Classic Literature/Novel",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Udheheqje pedagogjike",
@@ -693,7 +693,7 @@ const books = [
     "author": "Mehdi Memeti",
     "language": "Albanian",
     "category": "Education/Pedagogy",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Psalme te vonuara",
@@ -701,7 +701,7 @@ const books = [
     "author": "Alusg Kamberi",
     "language": "Albanian",
     "category": "Poetry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Vrasesi i konsullit",
@@ -709,7 +709,7 @@ const books = [
     "author": "Jakup Ceraja",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Mendime",
@@ -717,7 +717,7 @@ const books = [
     "author": "Myfti i Manastirit",
     "language": "Albanian",
     "category": "Philosophy/Religious",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Muhamedi a.s profeti islam",
@@ -725,7 +725,7 @@ const books = [
     "author": "Imam Vehbi Ismaili",
     "language": "Albanian",
     "category": "Religious (Islamic)/Biography",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Amesia",
@@ -733,7 +733,7 @@ const books = [
     "author": "Shyqri Galcia",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": "https://res.cloudinary.com/dd1mjtaus/image/upload/v1760798301/CamScanner_18.10.25_16.26_1_o1gg0a.jpg"
   },
   {
     "title": "Luli i vocer",
@@ -741,7 +741,7 @@ const books = [
     "author": "Migjeni",
     "language": "Albanian",
     "category": "Literature/Short Stories",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Tempulli i mekateve",
@@ -749,7 +749,7 @@ const books = [
     "author": "Ejup Ajdini",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Fonetika",
@@ -757,7 +757,7 @@ const books = [
     "author": "Kostaq Cipo",
     "language": "Albanian",
     "category": "Academic/Linguistics",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "E pervajtura",
@@ -765,7 +765,7 @@ const books = [
     "author": "Nexhat Mustafa",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Anglisht ne nje jave",
@@ -773,7 +773,7 @@ const books = [
     "author": "Enver Neziri",
     "language": "Albanian (Instructional)",
     "category": "Language Instruction",
-    "cover_image": ""
+    "image": "https://res.cloudinary.com/dd1mjtaus/image/upload/v1760798302/CamScanner_18.10.25_16.25_1_xwlvpb.jpg"
   },
   {
     "title": "Pa konsensus",
@@ -781,7 +781,7 @@ const books = [
     "author": "Bezgat Bezgati",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Biografi e shkaperderdhur",
@@ -789,7 +789,7 @@ const books = [
     "author": "Syrja Etemi",
     "language": "Albanian",
     "category": "Biography/Memoir",
-    "cover_image": ""
+    "image": "https://res.cloudinary.com/dd1mjtaus/image/upload/v1760798310/CamScanner_18.10.25_16.22_1__1_sgqqvt.jpg"
   },
   {
     "title": "Aventura mbi drin",
@@ -797,7 +797,7 @@ const books = [
     "author": "Adil Zeka",
     "language": "Albanian",
     "category": "Children's Literature/Novel",
-    "cover_image": ""
+    "image": "https://res.cloudinary.com/dd1mjtaus/image/upload/v1760798303/CamScanner_18.10.25_16.24_1__1_mrs0ta.jpg"
   },
   {
     "title": "Letersia e huaj",
@@ -805,7 +805,7 @@ const books = [
     "author": "Zihni Sako",
     "language": "Albanian",
     "category": "Academic/Literary Studies",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Lutjet e jetes nga Kurani dhe Hadithi",
@@ -813,7 +813,7 @@ const books = [
     "author": "No",
     "language": "",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "A ka jete pertej se majtes dhe se djathtes",
@@ -821,7 +821,7 @@ const books = [
     "author": "Ndricum Kulla",
     "language": "Albanian",
     "category": "Philosophy/Social Commentary",
-    "cover_image": ""
+    "image": "https://res.cloudinary.com/dd1mjtaus/image/upload/v1760798302/CamScanner_18.10.25_16.26_1__1_vnvc5t.jpg"
   },
   {
     "title": "Imperfekti ne gjuhen shqipe",
@@ -829,7 +829,7 @@ const books = [
     "author": "Mr. Haxhere Sulejmani",
     "language": "Albanian",
     "category": "Academic/Linguistics",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Gurekala",
@@ -837,7 +837,7 @@ const books = [
     "author": "Hasan Hasani",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Kati i trete",
@@ -845,7 +845,7 @@ const books = [
     "author": "Adem Abdullahu",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Vendimi i islamit per mjekren dhe duhanin",
@@ -853,7 +853,7 @@ const books = [
     "author": "Ali Iben Hasen Abdulhamid El Halebi El Etheri",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Drita e zemres",
@@ -861,7 +861,7 @@ const books = [
     "author": "Dr. Ramiz Zekaj",
     "language": "Albanian",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Nevoja e njerzimit per mesazhin e Muhamedit sal-lallahu alejhi ve sel-lem",
@@ -869,7 +869,7 @@ const books = [
     "author": "Nehat Ismaili",
     "language": "Albanian",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Mall",
@@ -877,7 +877,7 @@ const books = [
     "author": "Kimete Tairi",
     "language": "Albanian",
     "category": "Poetry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Dust of dreams",
@@ -885,7 +885,7 @@ const books = [
     "author": "Steven Erikson",
     "language": "English",
     "category": "Fantasy/Novel",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Engjuj dhe djaj",
@@ -893,7 +893,7 @@ const books = [
     "author": "Dan Brown",
     "language": "Albanian (Translation from English)",
     "category": "Mystery/Thriller/Novel",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "The godfather",
@@ -901,7 +901,7 @@ const books = [
     "author": "Mario Puzo",
     "language": "English",
     "category": "Crime/Novel",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "The sicilian",
@@ -909,7 +909,7 @@ const books = [
     "author": "Mario Puzo",
     "language": "English",
     "category": "Crime/Novel",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "The intellegent investor",
@@ -917,7 +917,7 @@ const books = [
     "author": "Benjamin Graham",
     "language": "English",
     "category": "Finance/Investing",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Forever amber",
@@ -925,7 +925,7 @@ const books = [
     "author": "Kathleen Winsor",
     "language": "English",
     "category": "Historical Fiction/Novel",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "The crippled god",
@@ -933,7 +933,7 @@ const books = [
     "author": "Steven Erikson",
     "language": "English",
     "category": "Fantasy/Novel",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Solace",
@@ -941,7 +941,7 @@ const books = [
     "author": "Nicci Gerrard",
     "language": "English",
     "category": "Fiction/Novel",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Past tense",
@@ -949,7 +949,7 @@ const books = [
     "author": "Lee Child",
     "language": "English",
     "category": "Thriller/Novel",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Across the universe",
@@ -957,7 +957,7 @@ const books = [
     "author": "Beth Revis",
     "language": "English",
     "category": "Science Fiction/Young Adult",
-    "cover_image": ""
+    "image": "https://res.cloudinary.com/dd1mjtaus/image/upload/v1760798308/CamScanner_18.10.25_16.21_1_jkaf6y.jpg"
   },
   {
     "title": "Ne shoqeri me te dashurin tone",
@@ -965,7 +965,7 @@ const books = [
     "author": "Abdulhalik Sherif",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Ylli ne pushime",
@@ -973,7 +973,7 @@ const books = [
     "author": "Ali Qerimi",
     "language": "Albanian",
     "category": "Children's Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Shpella e thesarit",
@@ -981,7 +981,7 @@ const books = [
     "author": "Ali Qerimi",
     "language": "Albanian",
     "category": "Children's Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Klasa jone",
@@ -989,7 +989,7 @@ const books = [
     "author": "Ali Qerimi",
     "language": "Albanian",
     "category": "Children's Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Drita e zemres suret e shkurtera dhe jasini",
@@ -997,7 +997,7 @@ const books = [
     "author": "No",
     "language": "Albanian",
     "category": "Religious (Islamic)/Prayer Book",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Ramazani muaji i vlerave",
@@ -1005,7 +1005,7 @@ const books = [
     "author": "No",
     "language": "Albanian",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Bamiresia ndan prinderve",
@@ -1013,7 +1013,7 @@ const books = [
     "author": "Dr. Said iben Ali iben Vehf el Kahtani",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)/Parenting",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Perjetoni bukurine e namazit",
@@ -1021,7 +1021,7 @@ const books = [
     "author": "Mishary Al Khazar",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Tregime mbi parimet e ngrenies dhe pijes",
@@ -1029,7 +1029,7 @@ const books = [
     "author": "Ahmed Muhamed Hasan",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)/Children's",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Tregime mbi parimet e lojes dhe talljes",
@@ -1037,7 +1037,7 @@ const books = [
     "author": "Shaban Mustafa Kazamil",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)/Children's",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Tregime mbi parimet e punes",
@@ -1045,7 +1045,7 @@ const books = [
     "author": "Jasir Ali Nur",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)/Children's",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Tregime mbi parimet e pershendetjes",
@@ -1053,7 +1053,7 @@ const books = [
     "author": "Medihat Mensur El-Medhali",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)/Children's",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Tregime mbi parimet e diturise",
@@ -1061,7 +1061,7 @@ const books = [
     "author": "Eshref Abdurteuf Kadeh",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)/Children's",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Gjuha e kuranit",
@@ -1069,7 +1069,7 @@ const books = [
     "author": "Abduhrrahman Asllani",
     "language": "Albanian",
     "category": "Religious (Islamic)/Linguistics",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Gramatika e gjuhes shqipe II",
@@ -1077,7 +1077,7 @@ const books = [
     "author": "Zijadin Munishi",
     "language": "Albanian",
     "category": "Academic/Linguistics",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Hyrje ne shkencen e letersise",
@@ -1085,7 +1085,7 @@ const books = [
     "author": "Milivoj Solar",
     "language": "Albanian (Translation)",
     "category": "Academic/Literary Theory",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Hyrje ne gjuhen e pergjithshme",
@@ -1093,7 +1093,7 @@ const books = [
     "author": "Shezai Rrokaj",
     "language": "Albanian",
     "category": "Academic/Linguistics",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Pulsin yjesh",
@@ -1101,7 +1101,7 @@ const books = [
     "author": "Ahmet Osmani",
     "language": "Albanian",
     "category": "Poetry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Gramatika e gabimeve",
@@ -1109,7 +1109,7 @@ const books = [
     "author": "Dr. Qemal Murati",
     "language": "Albanian",
     "category": "Academic/Linguistics",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Verorja",
@@ -1117,7 +1117,7 @@ const books = [
     "author": "Rexhep Hoxha",
     "language": "Albanian",
     "category": "Literature",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Vallja e luleve",
@@ -1125,7 +1125,7 @@ const books = [
     "author": "Qefsere Dauti-Rufati",
     "language": "Albanian",
     "category": "Poetry",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Jeta alhaku dhe themelet e fese qe presikoi Muhamedi a.s",
@@ -1133,7 +1133,7 @@ const books = [
     "author": "Prof. Dr. Ahmet Onkal",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)/Biography",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Rregullat e arta te te pareve per vellazerine e besimit",
@@ -1141,7 +1141,7 @@ const books = [
     "author": "Dr. Abdullah Ferexhullah",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Udhezues i Ibadetit",
@@ -1149,7 +1149,7 @@ const books = [
     "author": "Sejfetin Jazexhe",
     "language": "Albanian",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Gjuha shqipe dhe leximi IX",
@@ -1157,7 +1157,7 @@ const books = [
     "author": "Islam Karanfili",
     "language": "Albanian",
     "category": "Academic/Language Arts",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Detyra paresore te levizjes islame ne periudhen e ardhshme",
@@ -1165,7 +1165,7 @@ const books = [
     "author": "Dr. Josuf el-Kardavi",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)/Political",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Emrat e bukur te Allahut",
@@ -1173,7 +1173,7 @@ const books = [
     "author": "Dr. Vexhih Jakub Sejjid",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Historia e profeteve",
@@ -1181,7 +1181,7 @@ const books = [
     "author": "Amer Halid",
     "language": "Albanian (Translation)",
     "category": "Religious (Islamic)/History",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Studime letrare",
@@ -1189,7 +1189,7 @@ const books = [
     "author": "Sherif Selimi",
     "language": "Albanian",
     "category": "Literary Criticism",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Rethanat fetare arsimore ne rajonin e Tetives dhe rethinen e saj",
@@ -1197,7 +1197,7 @@ const books = [
     "author": "Abdulqerim Osmani",
     "language": "Albanian",
     "category": "Religious/Education/Regional History",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Gete ka te drejt",
@@ -1205,7 +1205,7 @@ const books = [
     "author": "Lutfi Lepaj",
     "language": "Albanian",
     "category": "Literature/Philosophy",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Astronomia kuranore",
@@ -1213,7 +1213,7 @@ const books = [
     "author": "Adnan Sherifi",
     "language": "Albanian",
     "category": "Religious (Islamic)/Science",
-    "cover_image": ""
+    "image": ""
   },
   {
     "title": "Imam Esh'ariu Jets, vepra dhe mendime",
@@ -1221,7 +1221,7 @@ const books = [
     "author": "Nexhat Ibrahimi",
     "language": "Albanian",
     "category": "Religious (Islamic)/Biography",
-    "cover_image": ""
+    "image": ""
   }
 ]
 
