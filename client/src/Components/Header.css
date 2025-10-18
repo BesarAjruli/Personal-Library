@@ -2,9 +2,36 @@
     width: 150px;
     height: auto;
 }
-
-.logo iframe{
-    border: 0;
+header{
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    place-items: center;
+    padding: 0 45px;
+}
+.searchCont{
     width: 100%;
-    height: 100%;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+}
+.searchCont input{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0;
+    background-color:#594147a9;
+    padding: 0 10px;
+    color: #fff;
+}
+.searchCont input::placeholder{
+    color: #cecece;
+}
+.searchIcon{
+    margin-left: 10px;
+    color: #594147a9;
+}
+
+.filterIcon{
+    color: #594147a9;
 }
