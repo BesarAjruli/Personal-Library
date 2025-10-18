@@ -1,5 +1,6 @@
 import './App.css'
 import Header from './Components/Header'
+import Books from './Components/Books'
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
       <div className='artworkHolder'>
         <span>My Library</span>
       </div>
+      <Books/>
     </>
   )
 }
