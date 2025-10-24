@@ -16,16 +16,19 @@ header{
     place-items: center;
 }
 .searchCont input{
-    width: 250px;
-    height: 30px;
+    width: 350px;
+    height: 35px;
     border-radius: 5px;
     border: 0;
-    background-color:#594147a9;
+    background-color:#59414765;
     padding: 0 10px;
-    color: #fff;
+    color: #594147;
 }
 .searchCont input::placeholder{
-    color: #cecece;
+    color: #594147c7;
+}
+.searchCont input:focus{
+    outline: 1px solid #594147c7;
 }
 .searchIcon{
     margin-left: 10px;
