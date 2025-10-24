@@ -10,7 +10,7 @@ const Books = () => {
             <img alt={book.title} src={book.image} />
           </div>
           <div className="suggTxtCont">
-            <span>{book.title}</span>
+            <span className="title">{book.title}</span>
             <span className="suggAuth">{book.author}</span>
             <div>
               <span className="suggYear">{book.year}</span>

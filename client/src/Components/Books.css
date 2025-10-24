@@ -18,6 +18,12 @@
   flex-direction: column;
   margin-top: 8px;
   font-size: 1.2rem;
+  width: 150px;
+}
+.title{
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .suggAuth {
