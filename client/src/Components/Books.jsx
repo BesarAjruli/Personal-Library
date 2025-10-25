@@ -1,10 +1,14 @@
 import "./Books.css";
 import books from "./booksJson";
+import { useState } from "react";
+
 
 const Books = () => {
-  return (
+  const [currentPart, setCurrentPart] = useState(1);
+  return (<>
     <div className="suggCont">
       {books.map((book, index) => (
+        (index >= ((currentPart * 15) - 15) && index < (currentPart * 15)) &&
         <div key={index}>
           <div className="suggCoverCont">
             <img alt={book.title} src={book.image} />
@@ -19,6 +23,11 @@ const Books = () => {
         </div>
       ))}
     </div>
+
+    <div>
+      
+    </div>
+    </>
   );
 };
 
